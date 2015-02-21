@@ -1,0 +1,34 @@
+{
+  "name": "jspm-jsx-babel",
+  "version": "0.1.0",
+  "description": "JSX loader plugin",
+  "main": "jsx",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/g00fy-/jspm-jsx-babel.git"
+  },
+  "keywords": [
+    "jspm",
+    "jsx",
+    "loader",
+    "plugin"
+  ],
+  "author": "Piotr Majewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/g00fy-/jspm-jsx-babel/issues"
+  },
+  "homepage": "https://github.com/g00fy-/jspm-jsx-babel",
+  "dependencies": {
+    "babel-core": "^4.4.3"
+  },
+  "devDependencies": {
+    "connect": "^3.3.3",
+    "open": "0.0.5",
+    "serve-static": "^1.7.1"
+  },
+  "jspm": {}
+}
